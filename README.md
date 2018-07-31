@@ -25,7 +25,7 @@
  
  Use spline to play with math curve that has four fixed points, and responds when mouse scroll down and up to disply a different casses
  
- of the curve ..which transelated to its tention that ranging between 0 and 10.
+ of the curve ..which transelated to its tention that ranging between 10 and -10.
 
 <h4>
 Tasks:
