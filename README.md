@@ -16,7 +16,7 @@
 
 <div align="center">
 
- ![spline](https://user-images.githubusercontent.com/38832580/43422591-162bd47e-9442-11e8-9867-b3be57a98630.gif)
+ ![screen-recording-7-31-2018-10-10-52-pm-](https://user-images.githubusercontent.com/38832580/43491067-01ba6cd8-951b-11e8-9b0b-996056544539.gif)
 
 
 </div>
